@@ -27,6 +27,6 @@ To apply and install vim pluggins using VimPlug, just try:
 
 You should check that your Vim supports Python3 by 
 <pre>
-vim --versions
+  vim --versions
 </pre>
  
