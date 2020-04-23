@@ -25,5 +25,8 @@ To apply and install vim pluggins using VimPlug, just try:
    C:\Users\YourName> python install.py
 </pre>
 
-You should check that your Vim supports Python3 by vim --versions
+You should check that your Vim supports Python3 by 
+<pre>
+vim --versions
+</pre>
  
