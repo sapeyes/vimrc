@@ -1,11 +1,10 @@
+# .vimrc for Python3 IDE (Windows, Ubuntu)
 
 This .vimrc is designed for VIM IDE for Python3 both in Windows, Ubuntu (other linux has not been tested yet).
 
 This requires higher version of VIM 7.0.
 
-This has been tested in:
-  windows 10
-  ubuntu
+This has been tested in windows 10 and ubuntu.
 
 To apply and install vim pluggins using VimPlug, just try:
 
