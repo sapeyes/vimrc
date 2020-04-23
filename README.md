@@ -20,7 +20,7 @@ To apply and install vim pluggins using VimPlug, just try:
 <pre>
    C:\Users\YourName> wget https://raw.githubusercontent.com/sapeyes/vimrc/master/.vimrc 
    C:\Users\YourName> gvim or vim -- this will install all vim plugins and type :q
-   C:\Users\YourName> cd .vim/plugged/YouCompleteMe
+   C:\Users\YourName> cd vimfiles/plugged/YouCompleteMe
    C:\Users\YourName> python install.py
 </pre>
 
